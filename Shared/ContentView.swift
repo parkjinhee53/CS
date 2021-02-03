@@ -4,6 +4,7 @@
 //
 //  Created by Jinhee on 2021/01/25.
 //
+// gibeom talmo
 
 import SwiftUI
 
